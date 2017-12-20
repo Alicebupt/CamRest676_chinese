@@ -1,0 +1,245 @@
+现代的欧洲食品怎么样？
+现代欧洲 ('inform', 'food', '现代欧洲')
+我在找一家价位合理的餐馆。
+北 ('inform', 'area', '北')
+我能在市中心找到一家价位适中的餐厅的地址和菜式吗？
+东 ('inform', 'area', '东')
+我在找匈牙利菜。
+中心 ('inform', 'area', '中心')
+我想要有创意的食物，先生。哦，这也需要在南方。
+创造性 ('inform', 'food', '创造性')
+我想在镇北部找一家供应圣诞食物的餐馆。
+圣诞节 ('inform', 'food', '圣诞节')
+你能给我找一个昂贵的餐厅，餐厅的食物吗？
+牛排 ('inform', 'food', '牛排')
+我在找一家供应土耳其菜的餐馆。
+中心 ('inform', 'area', '中心')
+现代的欧洲食品怎么样？
+现代欧洲 ('inform', 'food', '现代欧洲')
+我想找些Mediterranean菜，需要知道他们的地址和电话号码。
+地中海 ('inform', 'food', '地中海')
+是的，现代的欧洲食品怎么样？
+现代欧洲 ('inform', 'food', '现代欧洲')
+你好，我想找一家供应圣诞食物的小镇南侧的餐厅。
+圣诞节 ('inform', 'food', '圣诞节')
+你能告诉我他们吃的是什么类型的食物并给我电话号码吗？
+意大利 ('inform', 'food', '意大利')
+我想要市区的和适中的价格。
+中心 ('inform', 'area', '中心')
+East。
+东 ('inform', 'area', '东')
+你好，我想找一家供应素食的餐厅。
+素食主义者 ('inform', 'food', '素食主义者')
+我需要一家素食餐厅。
+素食主义者 ('inform', 'food', '素食主义者')
+我想要一家供应素食的昂贵餐馆。
+素食主义者 ('inform', 'food', '素食主义者')
+我在城里南部寻找不同寻常的食物。
+不寻常 ('inform', 'food', '不寻常')
+我没有优先权。
+都可以 ('inform', 'pricerange', '都可以')
+我正在找一些提供圣诞食物的东西。
+圣诞节 ('inform', 'food', '圣诞节')
+我想找一家供应波兰食物的廉价餐馆。
+磨光 ('inform', 'food', '磨光')
+我要去洛杉矶生活。他们的电话号码是多少？
+都可以 ('inform', 'area', '都可以')
+有什么地方吗？
+都可以 ('inform', 'area', '都可以')
+你好.我想要一个便宜的餐厅。
+烧烤 ('inform', 'food', '烧烤')
+我对Portuguese菜很感兴趣。
+葡萄牙 ('inform', 'food', '葡萄牙')
+没有。地址和电话号码是多少？
+都可以 ('inform', 'pricerange', '都可以')
+我需要一个餐馆的美食酒吧食品地址。
+美食吧 ('inform', 'food', '美食吧')
+我想找一家供应圣诞大餐的昂贵餐馆。
+圣诞节 ('inform', 'food', '圣诞节')
+无特定面积。
+都可以 ('inform', 'area', '都可以')
+我没有偏爱。我能得到一个电话号码和地址吗？
+都可以 ('inform', 'food', '都可以')
+我想找一家提供跨界食物的餐馆。你能推荐别的吗？
+交叉 ('inform', 'food', '交叉')
+到处都是。
+都可以 ('inform', 'area', '都可以')
+我想找在市中心部分餐厅提供烧烤食品。如果没有，那么现代的欧洲食物怎么样？
+现代欧洲 ('inform', 'food', '现代欧洲')
+我没有优先权。
+都可以 ('inform', 'food', '都可以')
+我在找一家素食餐厅。
+素食主义者 ('inform', 'food', '素食主义者')
+不，我没有。
+都可以 ('inform', 'pricerange', '都可以')
+我没有偏爱。两个人都好。
+都可以 ('inform', 'food', '都可以')
+是的，我想在城里北部找一家价位适中的餐厅。
+都可以 ('inform', 'food', '都可以')
+不.
+都可以 ('inform', 'pricerange', '都可以')
+只要价格适中，在城镇的西部，我就没有优先权。
+都可以 ('inform', 'food', '都可以')
+我想在市中心的一家餐馆供应英国食物。
+东 ('inform', 'area', '东')
+你能推荐我去城南的一家餐馆吗？我不想花很多钱。
+廉价 ('inform', 'pricerange', '廉价')
+食物的种类对我来说无所谓。
+都可以 ('inform', 'food', '都可以')
+我想找一家供应素食的餐厅。
+素食主义者 ('inform', 'food', '素食主义者')
+我想找一个提供清真食品的地方。你能帮我吗？请不要太贵。
+适中 ('inform', 'pricerange', '适中')
+改成欧洲菜怎么样？
+都可以 ('inform', 'pricerange', '都可以')
+任何类型的食物都是好的，只要知道它在哪里就好了。
+都可以 ('inform', 'food', '都可以')
+我不管它在哪里。
+都可以 ('inform', 'area', '都可以')
+面积不重要。
+都可以 ('inform', 'area', '都可以')
+我在找一家餐馆。
+中心 ('inform', 'area', '中心')
+那去什么地方供应现代的欧洲食物呢？
+现代欧洲 ('inform', 'food', '现代欧洲')
+我正在城里任何地方寻找国际食品。
+都可以 ('inform', 'area', '都可以')
+我想要一家供应圣诞食物的小镇南部的餐馆。
+圣诞节 ('inform', 'food', '圣诞节')
+我想要价格适中的东西。任何种类的食物。
+都可以 ('inform', 'food', '都可以')
+我需要一家供应波兰餐厅的地址和电话号码。
+磨光 ('inform', 'food', '磨光')
+其实，你能给我一些建议的洁净的地方吗？
+犹太 ('inform', 'food', '犹太')
+你好，我想找一家价位适中的餐馆。
+东 ('inform', 'area', '东')
+我不管这家餐馆在哪个城市。
+都可以 ('inform', 'area', '都可以')
+你好，我想找一家提供食物的小镇南侧的餐厅。
+不寻常 ('inform', 'food', '不寻常')
+我想在城里任何地方找一家餐馆，供应马来西亚菜。
+都可以 ('inform', 'area', '都可以')
+城里的任何地方都有牙买加牙买加餐馆吗？
+都可以 ('inform', 'area', '都可以')
+有什么美食酒吧餐馆吗？
+美食吧 ('inform', 'food', '美食吧')
+就这些吧，谢谢。
+中心 ('inform', 'area', '中心')
+不，城里的任何地方都很好。
+都可以 ('inform', 'area', '都可以')
+我想要圣诞食物。
+圣诞节 ('inform', 'food', '圣诞节')
+两个人都好。
+都可以 ('inform', 'pricerange', '都可以')
+我想要一家供应素食的昂贵餐馆。
+素食主义者 ('inform', 'food', '素食主义者')
+在任何价位的法国餐馆怎么样？
+都可以 ('inform', 'pricerange', '都可以')
+任何
+都可以 ('inform', 'food', '都可以')
+我在找一家价位低廉的西部小镇的餐馆。
+廉价 ('inform', 'pricerange', '廉价')
+不要了，谢谢。你能告诉我那家餐馆的地址和电话号码吗？
+中心 ('inform', 'area', '中心')
+我没有任何偏好。
+都可以 ('inform', 'food', '都可以')
+有英式食物吗？
+英国 ('inform', 'food', '英国')
+嗨，我想找一个地方的托斯卡纳食品在任何价格范围内。
+都可以 ('inform', 'pricerange', '都可以')
+我想找一家价格适中的波兰餐厅。
+磨光 ('inform', 'food', '磨光')
+我不喜欢那种菜，但你能在西方找到我吗？
+都可以 ('inform', 'food', '都可以')
+我需要一家中餐厅。我想尝试一些开胃食品。
+中餐 ('inform', 'food', '中餐')
+面积是多少？
+地区 ('request', 'area', 'None')
+你能告诉我地址、电话号码和区号吗？
+邮编 ('request', 'postcode', 'None')
+它在城镇的西部吗？
+地区 ('request', 'area', 'None')
+好的，谢谢。请问在哪个区？
+地区 ('request', 'area', 'None')
+我能知道意大利餐厅的地址、电话号码和区域吗？
+地区 ('request', 'area', 'None')
+那是个便宜的餐馆？
+pricerange ('request', 'pricerange', 'None')
+当然
+电话 ('request', 'phone', 'None')
+当然
+在哪里 ('request', 'address', 'None')
+伟大的!它在哪里？
+地区 ('request', 'area', 'None')
+还有其他的事情吗？如果没有，我可以得到数字La Tasca，好吗？
+电话 ('request', 'phone', 'None')
+是的，请。
+地区 ('request', 'area', 'None')
+是的，请。
+电话 ('request', 'phone', 'None')
+当然!
+电话 ('request', 'phone', 'None')
+当然!
+在哪里 ('request', 'address', 'None')
+能告诉我市中心的位置吗？
+在哪里 ('request', 'address', 'None')
+地址和区域是什么？
+地区 ('request', 'area', 'None')
+La Raza听起来很可爱。我可以有号码和邮政编码吗？
+电话 ('request', 'phone', 'None')
+我能在市中心找到一家价位适中的餐厅的地址和菜式吗？
+食物 ('request', 'food', 'None')
+号怎么样美食吧型的食物吗？请告诉我地址、电话号码和区域。
+地区 ('request', 'area', 'None')
+不eraina为欧洲食品吗？如果是的话，电话号码是多少，在哪个区域？
+食物 ('request', 'food', 'None')
+不eraina为欧洲食品吗？如果是的话，电话号码是多少，在哪个区域？
+地区 ('request', 'area', 'None')
+是的请
+电话 ('request', 'phone', 'None')
+是的请
+在哪里 ('request', 'address', 'None')
+这家意大利餐馆叫什么名字？
+名称 ('request', 'name', 'None')
+是的，请。还有地址。
+电话 ('request', 'phone', 'None')
+中国人，号码是多少？
+电话 ('request', 'phone', 'None')
+是的请
+在哪里 ('request', 'address', 'None')
+是的请
+电话 ('request', 'phone', 'None')
+镇上的哪个部分是弗兰基和本尼的位置？
+地区 ('request', 'area', 'None')
+它在哪个城市？
+地区 ('request', 'area', 'None')
+是的，请告诉我电话号码。谢谢您.
+在哪里 ('request', 'address', 'None')
+是的，请
+电话 ('request', 'phone', 'None')
+是的，还有他们的地址。
+电话 ('request', 'phone', 'None')
+当然
+电话 ('request', 'phone', 'None')
+当然
+在哪里 ('request', 'address', 'None')
+是的，请告诉我地址。
+电话 ('request', 'phone', 'None')
+我想知道地址和电话号码和pipasha餐厅食品服务的类型
+食物 ('request', 'food', 'None')
+请告诉我他们的电话号码和菜的种类。
+食物 ('request', 'food', 'None')
+请讲话。
+在哪里 ('request', 'address', 'None')
+我想要一家便宜的葡萄牙餐厅。请告诉我他们的地址、电话号码和区域。
+地区 ('request', 'area', 'None')
+当然!
+在哪里 ('request', 'address', 'None')
+电话号码和电话号码是多少？
+地区 ('request', 'area', 'None')
+电话号码和电话号码是多少？
+地区 ('request', 'area', 'None')
+对.请告诉我位置和电话号码。
+位置 ('request', 'address', 'None')
+
